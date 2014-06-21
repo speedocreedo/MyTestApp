@@ -5,6 +5,8 @@ import android.app.Activity;
 import android.view.Menu;
 
 public class Main extends Activity {
+	
+	// declare variables
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
